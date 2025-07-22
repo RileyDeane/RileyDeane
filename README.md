@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RileyDeane
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning C#, HTML/CSS, SQL, JavaScript, and Python
-- 💞️ I’m looking to collaborate on Game Development
+- 🌱 I’m currently learning React.js, HTML/CSS, SQL, JavaScript, and MongoDB
+- 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me Rileydeane521@gmail.com
